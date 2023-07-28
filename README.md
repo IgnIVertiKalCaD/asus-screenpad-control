@@ -1,5 +1,6 @@
 # asus-screenpad-control
-utility that controls the brightness of the second screen under the asus-wmi-screenpad-dkms-git action 
+utility that controls the brightness of the second screen under the ![asus-wmi-screenpad-dkms-git](https://github.com/Plippo/asus-wmi-screenpad)
+ action 
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ____
